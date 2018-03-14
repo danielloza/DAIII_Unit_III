@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context="mx.com.dloza.descendent.MenuActivity">
+
+    <ImageButton
+        android:layout_width="@dimen/cover_width"
+        android:layout_height="@dimen/cover_width"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/size_21"
+        android:id="@+id/menu_gallery"
+        android:onClick="galleryActivity"
+        android:src="@drawable/gallery" />
+
+    <ImageButton
+        android:id="@+id/menu_church"
+        android:layout_width="@dimen/cover_width"
+        android:layout_height="@dimen/cover_width"
+        android:layout_alignLeft="@+id/menu_gallery"
+        android:layout_alignStart="@+id/menu_gallery"
+        android:layout_below="@+id/menu_gallery"
+        android:layout_marginTop="@dimen/size_32"
+        android:onClick="churchActivity"
+        android:src="@drawable/church" />
+
+</RelativeLayout>

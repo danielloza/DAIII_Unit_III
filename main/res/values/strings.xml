@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Descendent</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="location">Location</string>
+    <string name="name">Name</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_church_1">Parroquia de Nuestra  Señora de Los Dolores</string>
+    <string name="location_church_1">Plaza Principal s/n, Centro,</string>
+    <string name="location_2_church_1">Dolores Hidalgo,  Gto., 37800</string>
+    <string name="info_1_church_1">La edificación de la Parroquia de Nuestra</string>
+    <string name="info_2_church_1">Señora de Los Dolores se inició el 2 de Febrero de 1712 por disposición del Sr.</string>
+    <string name="info_3_church_1">Cura Lic. Álvaro de Osio y Ocampo y se concluyó en el año de 1778.</string>
+    <string name="info_4_church_1">En el año  de 1803, Don Miguel Hidalgo y Costilla se hace cargo del curato de la</string>
+    <string name="info_5_church_1">Parroquia y, en el pórtico de la misma, proclama el Grito de Independencia la</string>
+    <string name="info_6_church_1">madrugada del domingo 16 de septiembre de 1810.</string>
+    <string name="title_church_2">Parroquia de  La Asunción</string>
+    <string name="location_church_2">Puebla 32, Centro, Dolores Hidalgo, Gto., 37800</string>
+    <string name="info_1_church_2">La construcción del Templo de la Asunción de María inició el 12 de mayo de 1875</string>
+    <string name="info_2_church_2">por disposición del Sr. Cura Don José María Gómez. Antes de ser nombrada como santa</string>
+    <string name="info_3_church_2">patrona bajo la advocación de la Asunción de</string>
+    <string name="info_4_church_2">María, se la veneraba como la Virgen de la Saleta</string>
+    <string name="title_church_3">Templo de la  Tercera Orden</string>
+    <string name="location_church_3">Puebla 7, Centro, Dolores Hidalgo, Gto., 37800</string>
+    <string name="info_1_church_3">Después de la Parroquia de Nuestra Sra. De los Dolores, es el inmueble</string>
+    <string name="info_2_church_3">religioso más antiguo de la ciudad, según se aprecia en una inscripción</string>
+    <string name="info_3_church_3">que aparece en el arco del coro indicando que fue cerrado en 1755.</string>
+    <string name="info_4_church_3">Edificio compuesto de tres naves, su altar mayor está dedicado a la Virgen de</string>
+    <string name="info_5_church_3">la Inmaculada Concepción</string>
+    <string name="title_church_4">Templo el Señor  del Calvario</string>
+    <string name="location_church_4">37800 Centro,  Guanajuato 35B, Centro, Gto.</string>
+    <string name="info_church_4">Este Templo fue construido en 1510., por mano de gente del pueblo y dirigido por los frailes Agustinos.</string>
+    <string name="title_church_5">Jesús Nazareno</string>
+    <string name="location_church_5">Corregidora 5, Centro, 37800 Dolores Hidalgo C.I.N., Gto.</string>
+    <string name="info_church_5">El Templo de Jesús Nazareno se comenzó construir el 16 de junio 1875. La historia de los registros parroquiales nos indica que: se realizó junta de vecinos del barrio de «la obra banda» -la banda sur del Río Batán- para solicitarle al Señor Cura José María Gómez la necesidad de construir un templo para los auxilios espirituales</string>
+    <string name="origin">origin=</string>
+    <string name="destination">destination=</string>
+    <string name="sensor_false">sensor=false</string>
+    <string name="mode_driving">mode=driving</string>
+    <string name="ampersand"><![CDATA[&]]></string>
+    <string name="json">json</string>
+    <string name="url_google_apis">https://maps.googleapis.com/maps/api/directions/</string>
+    <string name="direction_not_find">Direccion no encontrada!</string>
+    <string name="title_gallery_1">Miguel Hidalgo</string>
+    <string name="title_gallery_2">Cura Hidalgo</string>
+    <string name="title_gallery_3">Se;ora no se como se llame</string>
+    <string name="title_gallery_4">Miguel Hidalgo y Costilla</string>
+    <string name="title_gallery_5">Pintura de la Independencia</string>
+    <string name="description_gallery_1">Descripcion de la pintura...</string>
+    <string name="description_gallery_2">Peque;a descripcion con la que cuentan las pinturas</string>
+    <string name="description_gallery_3">With many people...</string>
+    <string name="description_gallery_4">Cura Hidalgo con el estandarte</string>
+    <string name="description_gallery_5">descripcion de la pintura</string>
+    <string name="url_gallery_1">https://78.media.tumblr.com/7d51d6ab549daf475e8cc87cada9fafa/tumblr_p5ecw4o7ZQ1x8mzzro1_1280.jpg</string>
+    <string name="url_gallery_2">https://78.media.tumblr.com/ff6e465fafed8725272c886b484fa35a/tumblr_p5ed46QcHq1x8mzzro1_1280.jpg</string>
+    <string name="url_gallery_3">https://78.media.tumblr.com/f4c276647e206839a7cd26ff178abb74/tumblr_p5ed46QcHq1x8mzzro2_1280.jpg</string>
+    <string name="url_gallery_4">https://78.media.tumblr.com/862515c954b5c32fc43f1799b64ecdc7/tumblr_p5ed46QcHq1x8mzzro3_1280.jpg</string>
+    <string name="url_gallery_5">https://78.media.tumblr.com/bd37452d74f4aee0394a204f6436f15e/tumblr_p5ed46QcHq1x8mzzro4_1280.jpg</string>
+</resources>
